@@ -1,0 +1,19 @@
+{
+  "name": "qrcode.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Lokeshsri11/qrcodejs",
+  "authors": [
+    "Lokesh Srivastava",
+    "Lokesh Srivastava <lokeshsri1109@gmail.com> (http://jaguarjs.com)"
+  ],
+  "description": "Cross-browser QRCode generator for javascript",
+  "main": "qrcode.js",
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    "index.html",
+    "index.svg",
+    "jquery.min.js",
+    "qrcode.min.js"
+  ]
+}
